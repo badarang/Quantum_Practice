@@ -2,7 +2,7 @@ using Photon.Deterministic;
 using Quantum;
 using UnityEngine;
 
-namespace QuantumUser.View
+namespace Quantum.Asteroids
 {
     public class AsteroidsInput : MonoBehaviour
     {
